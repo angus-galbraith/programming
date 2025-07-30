@@ -4,7 +4,8 @@ from tkinter import ttk
 import sqlite3 as sq
 import os
 
-#player class
+
+
 class player():
     def __init__(self):
         
