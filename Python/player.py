@@ -1,4 +1,4 @@
-from darts501 import game
+from main import *
 import tkinter as tk
 from tkinter import ttk
 
